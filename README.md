@@ -130,6 +130,8 @@ Using the plotly, I also examined the relationship between word_count and num_se
 
 ![interactive plotly2](https://github.com/user-attachments/assets/049e0897-88ff-4064-b875-76a802051c11)
 
+Stardew Valley is an overwhelmingly positive game according to Steam (2024). You can find details of the game at https://store.steampowered.com/app/413150/Stardew_Valley/ If you`d like, you can also analyze an overwhelmingly negative game such as Overwatch 2 and compare the games. 
+
 ## How to analyze your own game
 So far you have seen a walk-through of the review through a specific game (Stardew Valley). Now this section provides instructions about how you can analyze your own game.
 
