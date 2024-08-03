@@ -126,9 +126,9 @@ I looked at the relationship between num_sentences and word_count via a scatterp
 
 ![scatterplot_regression_line](https://github.com/user-attachments/assets/416eb565-1768-47ca-b364-c8bb7037ae73)
 
-Using the plotly, I also examined the relationship between avg_words_per_sentence and num_sentences interactively. The following interactive plot showcases it. Please note that the interactivity may not be available over the markdown file. However, you can experience it when running your code.
+Using the plotly, I also examined the relationship between word_count and num_sentences interactively. The following interactive plot showcases it. Please note that the interactivity may not be available over the markdown file. However, you can experience it when running your code.
 
-![interactive_plotly](https://github.com/user-attachments/assets/9bc8ea7d-a176-4c2c-bc71-2ac884b6ed86)
+![interactive plotly2](https://github.com/user-attachments/assets/049e0897-88ff-4064-b875-76a802051c11)
 
 ## How to analyze your own game
 So far you have seen a walk-through of the review through a specific game (Stardew Valley). Now this section provides instructions about how you can analyze your own game.
