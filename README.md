@@ -1,20 +1,3 @@
-- brief intro
-- Prerequisites
-- walkthrough using review_analysis_stardew_valley.ipynb with images and some comments
-- how to analyse your own game
-    - find steam app id
-    - fill out appid and name in scrape_and_sentiment_analyze_steam_reviews.ipynb
-    - run scrape_and_sentiment_analyze_steam_reviews.ipynb
-    - will create extended file in folder
-    - put name in review_analysis.ipynb (maybe rename to your game?)
-    - run review_analysis.ipynb, will use extended file
-
-- watch out for:
-    - possible outliers
-    - sometimes log axis makes a relationship clearer
-    - select a appropriate time span for accumulations
-    - try to used pairs of variables that have more than 0.5 r-squared
-
 # Steam Review Analysis User`s Guide
 This user guide is intended for guiding the other users/researchers who may want to analyze steam reviews for various purposes. To make things clearer for the prospective users/researchers, this guide briefly lists the prerequisites, walks them through the analysis process through a specific game review (Stardew Valley), and lastly provides instructions about how users can analyze their own games of interest. In this way, I hope the other users/researchers may go through steps of analyzing reviews. I will also conclude with some warnings that new users/researchers may find useful in their own analysis. Let`s now walk you through the necessary steps to set up and run the project. which involve scraping review data, processing it, and visualizing various statistics and correlations.
 
